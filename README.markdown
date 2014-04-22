@@ -2,5 +2,6 @@
 [*Eurosport*]
 http://www.eurospost.ru
 
-[*Goal*]
+[*Goal *]
 http://www.goal.com
+
