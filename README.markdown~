@@ -1,3 +1,3 @@
 #Ruby on Rails Tutorial: first applicationro
 [*Eurosport*]
-http://eurospost.ru
+http://www.eurospost.ru
