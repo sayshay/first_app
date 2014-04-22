@@ -1,0 +1,12 @@
+/usr/bin/ruby1.9.1 extconf.rb 
+creating Makefile
+
+make  clean
+
+make
+compiling parser.c
+linking shared-object json/ext/parser.so
+
+make  install
+/usr/bin/install -c -m 0755 parser.so /home/alex/rails_projects/first_app/vendor/bundle/ruby/1.9.1/gems/json-1.8.1/ext/json/ext/parser/.gem.20140421-27451-yya843/json/ext
+installing default parser libraries
